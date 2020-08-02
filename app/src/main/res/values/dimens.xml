@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="nav_drawer_width">260dp</dimen>
+    <dimen name="design_bottom_navigation_height" tools:override="true">60dp</dimen>
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">10sp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">10sp</dimen>
+    <dimen name="design_bottom_navigation_margin">9dp</dimen>
+    <dimen name="corner_item_horizontal">7dp</dimen>
+    <dimen name="parallax_image_height">385dp</dimen>
+</resources>
